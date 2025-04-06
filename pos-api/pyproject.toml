@@ -6,8 +6,11 @@ authors = [
     {name = "Antonio Moreira",email = "antoniomoreira@pecege.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.11,<3.13"
 dependencies = [
+    "uvicorn (>=0.34.0,<0.35.0)",
+    "starlette (>=0.46.1,<0.47.0)",
+    "spacy (>=3.8.5,<4.0.0)"
 ]
 
 
