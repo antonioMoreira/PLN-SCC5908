@@ -1,0 +1,38 @@
+[NeMo W 2025-04-21 04:41:29 experimental:26] `<class 'nemo.collections.tts.g2p.models.i18n_ipa.IpaG2p'>` is experimental and not ready for production yet. Use at your own risk.
+[NeMo W 2025-04-21 04:41:30 i18n_ipa:124] apply_to_oov_word=None, This means that some of words will remain unchanged if they are not handled by any of the rules in self.parse_one_word(). This may be intended if phonemes and chars are both valid inputs, otherwise, you may see unexpected deletions in your input.
+[NeMo W 2025-04-21 04:41:30 experimental:26] `<class 'nemo.collections.common.tokenizers.text_to_speech.tts_tokenizers.IPATokenizer'>` is experimental and not ready for production yet. Use at your own risk.
+[NeMo W 2025-04-21 04:41:31 experimental:26] `<class 'nemo.collections.tts.data.text_to_speech_dataset.TextToSpeechDataset'>` is experimental and not ready for production yet. Use at your own risk.
+[NeMo W 2025-04-21 04:41:31 experimental:26] `<class 'nemo.collections.tts.data.text_to_speech_dataset.TextToSpeechDataset'>` is experimental and not ready for production yet. Use at your own risk.
+[NeMo W 2025-04-21 04:41:31 experimental:26] `<class 'nemo.collections.tts.data.text_to_speech_dataset.TextToSpeechDataset'>` is experimental and not ready for production yet. Use at your own risk.
+[NeMo W 2025-04-21 04:41:36 modelPT:176] If you intend to do training or fine-tuning, please call the ModelPT.setup_training_data() method and provide a valid configuration file to setup the train data loader.
+    Train config : 
+    dataset:
+      _target_: nemo.collections.tts.data.datalayers.MelAudioDataset
+      manifest_filepath: /home/fkreuk/data/train_finetune.txt
+      min_duration: 0.75
+      n_segments: 8192
+    dataloader_params:
+      drop_last: false
+      shuffle: true
+      batch_size: 64
+      num_workers: 4
+    
+[NeMo W 2025-04-21 04:41:36 modelPT:183] If you intend to do validation, please call the ModelPT.setup_validation_data() or ModelPT.setup_multiple_validation_data() method and provide a valid configuration file to setup the validation data loader(s). 
+    Validation config : 
+    dataset:
+      _target_: nemo.collections.tts.data.datalayers.MelAudioDataset
+      manifest_filepath: /home/fkreuk/data/val_finetune.txt
+      min_duration: 3
+      n_segments: 66150
+    dataloader_params:
+      drop_last: false
+      shuffle: false
+      batch_size: 5
+      num_workers: 4
+    
+[NeMo W 2025-04-21 04:41:36 features:282] Using torch_stft is deprecated and has been removed. The values have been forcibly set to False for FilterbankFeatures and AudioToMelSpectrogramPreprocessor. Please set exact_pad to True as needed.
+[NeMo W 2025-04-21 04:41:36 features:282] Using torch_stft is deprecated and has been removed. The values have been forcibly set to False for FilterbankFeatures and AudioToMelSpectrogramPreprocessor. Please set exact_pad to True as needed.
+[NeMo W 2025-04-21 04:41:37 experimental:26] `<class 'nemo.collections.tts.parts.utils.callbacks.LoggingCallback'>` is experimental and not ready for production yet. Use at your own risk.
+[NeMo W 2025-04-21 04:41:43 tts_tokenizers:829] Text: [QUE PODE O HOMEM, ĩsiɡɲifikɐ̃tʃi E inutʃiw, exɟex PARA dʒiʃviax O CURSO, O ĩpetu DA PIEDADE E DA S3MPATHIA] contains unknown char/phoneme: [3].Original text: [que pode o homem, insignificante e inutil, erguer para desviar o curso, o impeto da piedade e da s3mpathia]. Symbol will be skipped.
+[NeMo W 2025-04-22 07:02:28 tts_tokenizers:829] Text: [QUE PODE O HOMEM, ĩsiɡɲifikɐ̃tʃi E inutʃiw, exɟex PARA dʒiʃviax O CURSO, O ĩpetu DA PIEDADE E DA S3MPATHIA] contains unknown char/phoneme: [3].Original text: [que pode o homem, insignificante e inutil, erguer para desviar o curso, o impeto da piedade e da s3mpathia]. Symbol will be skipped.
+[NeMo W 2025-04-22 07:03:35 tts_tokenizers:829] Text: [QUE PODE O HOMEM, ĩsiɡɲifikɐ̃tʃi E inutʃiw, exɟex PARA dʒiʃviax O CURSO, O ĩpetu DA PIEDADE E DA S3MPATHIA] contains unknown char/phoneme: [3].Original text: [que pode o homem, insignificante e inutil, erguer para desviar o curso, o impeto da piedade e da s3mpathia]. Symbol will be skipped.
