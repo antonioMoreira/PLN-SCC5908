@@ -48,6 +48,8 @@ async function stopRecordingAndGetBlob() {
   const base64 = await blob2Base64(blob, "audio/wav");
   isLoading.value = true;
 
+  console.log(base64);
+
   await delay(2000); // Simulando um delay de 2 segundos
 
   isLoading.value = false;
@@ -67,7 +69,8 @@ async function stopRecordingAndGetBlob() {
     v-else
     class="button is-danger"
     :class="{ 'is-loading': isLoading }"
-    @click="stopRecordingAndGetBlob">
+    @click="stopRecordingAndGetBlob"
+  >
     Parar
   </button>
 </template>
