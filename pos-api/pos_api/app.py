@@ -14,13 +14,11 @@ async def homepage(request) -> JSONResponse:
 
 async def handle_tagger(request:Request) -> JSONResponse:
     assert isinstance(request, Request)
-    print(request)
-    print(type(request))
     try:
         data = await request.json()
         assert isinstance(data, dict) and "sentence" in data
         tags = get_pos_tags(data["sentence"])
-        return JSONResponse(tags, status_code=201)
+        return JSONResponse({'data':[tags]}, status_code=201)
     except Exception as e:
         return JSONResponse({
             "error": str(e)
