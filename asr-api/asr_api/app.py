@@ -1,15 +1,19 @@
-import base64
 import io
-import logging
 import os
+import base64
+import logging
 import tempfile
 
-from fastapi import FastAPI, HTTPException
-from pydantic import BaseModel
-from fastapi.responses import JSONResponse
-
+import torch
 import torchaudio
+from pydantic import BaseModel
+from fastapi import FastAPI, HTTPException
+from fastapi.responses import JSONResponse
 from faster_whisper import WhisperModel
+from faster_whisper.audio import decode_audio
+
+
+assert torch.cuda.is_available(), "CUDA is not available. Please check your PyTorch installation."
 
 os.makedirs("logs", exist_ok=True)
 

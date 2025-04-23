@@ -3,10 +3,10 @@ import subprocess
 import spacy 
 
 try:
-    nlp = spacy.load("pt_core_news_sm")
+    nlp = spacy.load("pt_core_news_lg")
 except OSError:
-    subprocess.run(["python3", "-m", "spacy", "download", "pt_core_news_sm"])
-    nlp = spacy.load("pt_core_news_sm")
+    subprocess.run(["python3", "-m", "spacy", "download", "pt_core_news_lg"])
+    nlp = spacy.load("pt_core_news_lg")
 
 def get_pos_tags(text) -> list[dict[str, str]]:
     """
