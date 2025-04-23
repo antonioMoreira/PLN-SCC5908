@@ -7,6 +7,7 @@ import { ref } from "vue";
 
 // Esse <> é para dizer para o typescript que a variável
 // que a `ref` vai ser  "transcriptor" ou "tagging"
+// x:Literal["transcriptor", "confirm", "tagging"] = "transcriptor"
 const page = ref<"transcriptor" | "confirm" | "tagging">("transcriptor");
 const transcription = ref<string>("");
 const text = ref<string>("");

@@ -5,6 +5,7 @@ import { blob2Base64 } from "../utils/blobToBase64";
 import { ref } from "vue";
 import { delay } from "es-toolkit";
 
+// defineEmits is a macro in Vue 3.
 const emit = defineEmits(["done"]);
 
 const { stream } = useUserMedia({
@@ -66,8 +67,7 @@ async function stopRecordingAndGetBlob() {
     v-else
     class="button is-danger"
     :class="{ 'is-loading': isLoading }"
-    @click="stopRecordingAndGetBlob"
-  >
+    @click="stopRecordingAndGetBlob">
     Parar
   </button>
 </template>
