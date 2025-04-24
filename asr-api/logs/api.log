@@ -11,3 +11,19 @@
 [2025-04-23 20:19:03,229] [INFO] Transcription successful: 
 [2025-04-23 20:21:51,266] [INFO] Loading Faster-Whisper model...
 [2025-04-23 20:21:51,969] [INFO] Model loaded.
+[2025-04-23 21:53:16,807] [INFO] Loading Faster-Whisper model...
+[2025-04-23 21:53:17,444] [INFO] Model loaded.
+[2025-04-23 21:53:20,374] [INFO] Received transcription request
+[2025-04-23 21:53:20,442] [INFO] Processing audio with duration 00:06.912
+[2025-04-23 21:53:20,792] [INFO] Transcription successful:  Não tive filhos, não transmitia nenhuma criatura, o legado de nossa miseria.  Machado de assiste.
+[2025-04-23 21:53:47,206] [INFO] Received transcription request
+[2025-04-23 21:53:47,275] [INFO] Processing audio with duration 00:06.912
+[2025-04-23 21:53:47,392] [INFO] Transcription successful:  Não tive filhos, não transmitia nenhuma criatura, o legado de nossa miseria.  Machado de assiste.
+[2025-04-23 21:54:38,116] [INFO] Loading Faster-Whisper model...
+[2025-04-23 21:54:38,725] [INFO] Model loaded.
+[2025-04-23 21:54:54,037] [INFO] Received transcription request
+[2025-04-23 21:54:54,137] [INFO] Processing audio with duration 00:02.613
+[2025-04-23 21:54:54,776] [INFO] Transcription successful: 
+[2025-04-23 22:26:54,530] [INFO] Received transcription request
+[2025-04-23 22:26:54,616] [INFO] Processing audio with duration 00:04.080
+[2025-04-23 22:26:54,701] [INFO] Transcription successful:  1, 2, 3, isto é um teste.

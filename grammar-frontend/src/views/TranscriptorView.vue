@@ -10,7 +10,10 @@ const emit = defineEmits(["done"]);
 
 const { stream } = useUserMedia({
   constraints: {
-    audio: true,
+    audio: {
+      sampleRate: 16000,
+      channelCount: 1, // mono
+    },
   },
   autoSwitch: true,
   enabled: true,
