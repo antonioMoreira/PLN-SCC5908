@@ -27,3 +27,5 @@
 [2025-04-23 22:26:54,530] [INFO] Received transcription request
 [2025-04-23 22:26:54,616] [INFO] Processing audio with duration 00:04.080
 [2025-04-23 22:26:54,701] [INFO] Transcription successful:  1, 2, 3, isto é um teste.
+[2025-04-24 19:30:56,043] [INFO] Loading Faster-Whisper model...
+[2025-04-24 19:30:56,963] [INFO] Model loaded.
