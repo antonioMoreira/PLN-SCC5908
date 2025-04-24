@@ -19,9 +19,23 @@ function handleTranscription(result: string) {
   transcription.value = result;
 }
 
-function handleConfirm(result: string) {
+async function handleConfirm(confirmedText: string) {
+  const result = await fetch("http://localhost:5678/tagger", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      sentence: confirmedText,
+    }),
+  });
+  if (!result.ok) {
+    console.error("Erro ao transcrever áudio");
+    return;
+  }
+  const { data } = await result.json();
   page.value = "tagging";
-  text.value = result;
+  text.value = data;
 }
 </script>
 

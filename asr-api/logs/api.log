@@ -29,3 +29,59 @@
 [2025-04-23 22:26:54,701] [INFO] Transcription successful:  1, 2, 3, isto é um teste.
 [2025-04-24 19:30:56,043] [INFO] Loading Faster-Whisper model...
 [2025-04-24 19:30:56,963] [INFO] Model loaded.
+[2025-04-24 19:40:47,143] [INFO] Loading Faster-Whisper model...
+[2025-04-24 19:40:47,799] [INFO] Model loaded.
+[2025-04-24 19:42:18,310] [INFO] Received transcription request
+[2025-04-24 19:42:18,397] [INFO] Processing audio with duration 00:04.080
+[2025-04-24 19:42:18,958] [INFO] Transcription successful:  1, 2, 3, isto é um teste.
+[2025-04-24 19:45:00,123] [INFO] Loading Faster-Whisper model...
+[2025-04-24 19:45:00,853] [INFO] Model loaded.
+[2025-04-24 19:46:29,678] [INFO] Loading Faster-Whisper model...
+[2025-04-24 19:46:30,206] [INFO] Model loaded.
+[2025-04-24 19:46:58,144] [INFO] Loading Faster-Whisper model...
+[2025-04-24 19:46:58,665] [INFO] Model loaded.
+[2025-04-24 19:48:42,351] [INFO] Loading Faster-Whisper model...
+[2025-04-24 19:48:43,152] [INFO] Model loaded.
+[2025-04-24 19:48:58,685] [INFO] Loading Faster-Whisper model...
+[2025-04-24 19:48:59,137] [INFO] Model loaded.
+[2025-04-24 19:54:24,413] [INFO] Loading Faster-Whisper model...
+[2025-04-24 19:54:24,875] [INFO] Model loaded.
+[2025-04-24 19:54:56,913] [INFO] Loading Faster-Whisper model...
+[2025-04-24 19:54:57,412] [INFO] Model loaded.
+[2025-04-24 19:55:01,750] [INFO] Received transcription request
+[2025-04-24 19:55:01,822] [INFO] Processing audio with duration 00:04.080
+[2025-04-24 19:55:02,150] [INFO] Transcription successful:  1, 2, 3, isto é um teste.
+[2025-04-24 19:57:25,360] [INFO] Loading Faster-Whisper model...
+[2025-04-24 19:57:26,194] [INFO] Model loaded.
+[2025-04-24 19:58:13,881] [INFO] Loading Faster-Whisper model...
+[2025-04-24 19:58:14,383] [INFO] Model loaded.
+[2025-04-24 19:58:25,774] [INFO] Loading Faster-Whisper model...
+[2025-04-24 19:58:26,487] [INFO] Model loaded.
+[2025-04-24 19:59:54,918] [INFO] Received transcription request
+[2025-04-24 19:59:55,008] [INFO] Processing audio with duration 00:03.300
+[2025-04-24 19:59:55,354] [INFO] Transcription successful:  1, 2, 3, gravando um áudio.
+[2025-04-24 20:02:33,034] [INFO] Received transcription request
+[2025-04-24 20:02:33,035] [ERROR] Transcription failed
+Traceback (most recent call last):
+  File "/home/antonio/Documents/Mestrado/PLN/PLN-SCC5908/asr-api/asr_api/app.py", line 59, in transcribe_audio
+    audio_bytes = base64.b64decode(request.audio_base64)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/antonio/.pyenv/versions/3.11.10/lib/python3.11/base64.py", line 88, in b64decode
+    return binascii.a2b_base64(s, strict_mode=validate)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+binascii.Error: Incorrect padding
+[2025-04-24 20:03:32,008] [INFO] Received transcription request
+[2025-04-24 20:03:32,134] [INFO] Processing audio with duration 00:03.480
+[2025-04-24 20:03:32,259] [INFO] Transcription successful:  Olá, isto é um áudio testando com 2-3.
+[2025-04-24 20:16:22,192] [INFO] Received transcription request
+[2025-04-24 20:16:22,345] [INFO] Processing audio with duration 00:03.540
+[2025-04-24 20:16:22,448] [INFO] Transcription successful:  Olá, o código vai funcionar.
+[2025-04-24 20:21:00,572] [INFO] Received transcription request
+[2025-04-24 20:21:00,713] [INFO] Processing audio with duration 00:03.540
+[2025-04-24 20:21:00,806] [INFO] Transcription successful:  Renato, você é legal.
+[2025-04-24 20:21:53,526] [INFO] Received transcription request
+[2025-04-24 20:21:53,644] [INFO] Processing audio with duration 00:03.240
+[2025-04-24 20:21:53,743] [INFO] Transcription successful:  O botão resetar não está funcionando.
+[2025-04-24 20:25:51,592] [INFO] Received transcription request
+[2025-04-24 20:25:51,692] [INFO] Processing audio with duration 00:06.060
+[2025-04-24 20:25:51,817] [INFO] Transcription successful:  E este é uma fala, falar de normalmente, com bastante reflexão na verdade na fala.

@@ -4,12 +4,12 @@ import { shuffle } from "es-toolkit";
 import TagWord from "../components/TagWord.vue";
 
 // Recebe a frase como props:
-defineProps({
+const { result } = defineProps<{
   result: {
-    type: String,
-    required: true,
-  },
-});
+    word: string;
+    tag: string;
+  }[];
+}>();
 
 const taggingTarget = ref<number>(-1);
 
@@ -35,44 +35,44 @@ function clearWord(index: number) {
   words[index].tagSymbol = undefined;
 }
 
-const example = {
-  data: [
-    [
-      {
-        word: "Oi",
-        tag: "PROPN",
-      },
-      {
-        word: ",",
-        tag: "PUNCT",
-      },
-      {
-        word: "meu",
-        tag: "DET",
-      },
-      {
-        word: "nome",
-        tag: "NOUN",
-      },
-      {
-        word: "é",
-        tag: "AUX",
-      },
-      {
-        word: "Antonio",
-        tag: "PROPN",
-      },
-      {
-        word: "Moreira",
-        tag: "PROPN",
-      },
-      {
-        word: ".",
-        tag: "PUNCT",
-      },
-    ],
-  ],
-};
+// const example = {
+//   data: [
+//     [
+//       {
+//         word: "Oi",
+//         tag: "PROPN",
+//       },
+//       {
+//         word: ",",
+//         tag: "PUNCT",
+//       },
+//       {
+//         word: "meu",
+//         tag: "DET",
+//       },
+//       {
+//         word: "nome",
+//         tag: "NOUN",
+//       },
+//       {
+//         word: "é",
+//         tag: "AUX",
+//       },
+//       {
+//         word: "Antonio",
+//         tag: "PROPN",
+//       },
+//       {
+//         word: "Moreira",
+//         tag: "PROPN",
+//       },
+//       {
+//         word: ".",
+//         tag: "PUNCT",
+//       },
+//     ],
+//   ],
+// };
 
 const words: {
   content: string;
@@ -80,7 +80,7 @@ const words: {
   tagSymbol?: symbol;
   correctTag: string;
 }[] = reactive(
-  example.data[0].map((item) => ({
+  result.map((item) => ({
     content: item.word,
     correctTag: item.tag,
   }))
@@ -88,7 +88,7 @@ const words: {
 
 const tags = reactive(
   shuffle(
-    example.data[0].map((item) => ({
+    result.map((item) => ({
       name: item.tag,
       tagSymbol: Symbol(),
     }))

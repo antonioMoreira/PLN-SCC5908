@@ -53,14 +53,30 @@ async function stopRecordingAndGetBlob() {
 
   console.log(base64);
 
-  await delay(2000); // Simulando um delay de 2 segundos
+  const result = await fetch("http://localhost:5679/transcribe", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      audio_base64: base64,
+    }),
+  });
+
+  if (!result.ok) {
+    console.error("Erro ao transcrever áudio");
+    isLoading.value = false;
+    return;
+  }
+
+  const {transcription} = await result.json();
 
   isLoading.value = false;
 
   // getTranscription
 
   // Aqui a gente está emitindo o evento "done" com o resultado gravado
-  emit("done", "Frase gravada com sucesso!");
+  emit("done", transcription);
 }
 </script>
 
