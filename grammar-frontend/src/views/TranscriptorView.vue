@@ -12,7 +12,7 @@ const { stream } = useUserMedia({
   constraints: {
     audio: {
       sampleRate: 16000,
-      channelCount: 1, // mono
+      channelCount: 1,
     },
   },
   autoSwitch: true,
