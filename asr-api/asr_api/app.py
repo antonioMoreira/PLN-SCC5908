@@ -12,6 +12,7 @@ from fastapi import FastAPI, HTTPException
 from fastapi.responses import JSONResponse
 from faster_whisper import WhisperModel
 from faster_whisper.audio import decode_audio
+from fastapi.middleware.cors import CORSMiddleware
 
 
 assert torch.cuda.is_available(), "CUDA is not available. Please check your PyTorch installation."
@@ -32,6 +33,19 @@ log.info("Model loaded.")
 
 # === FastAPI setup ===
 app = FastAPI()
+
+origins = [
+    "http://localhost",
+    "http://localhost:5173",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 class AudioRequest(BaseModel):
     audio_base64: str
