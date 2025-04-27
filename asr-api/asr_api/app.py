@@ -28,7 +28,7 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 log.info("Loading Faster-Whisper model...")
-model = WhisperModel("tiny", device="cuda", compute_type="float16")
+model = WhisperModel("large-v3-turbo", device="cuda", compute_type="float16")
 log.info("Model loaded.")
 
 # === FastAPI setup ===
