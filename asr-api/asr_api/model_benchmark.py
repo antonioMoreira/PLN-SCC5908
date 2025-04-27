@@ -4,16 +4,19 @@ from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 import numpy as np
 from tqdm import tqdm
 import torchaudio
+import torch
 
-print("Loading dataset...")
-cv_17 = load_dataset("mozilla-foundation/common_voice_17_0", "pt", split="train")
-print("Done.")
+WHISPER_MODEL_SIZE = "large-v3"
 
 assert torch.cuda.is_available(), "CUDA is not available. Please check your PyTorch installation."
 
-print("Loading Faster-Whisper model...")
-model = WhisperModel("tiny", device="cuda", compute_type="float16")
-print("Model loaded.")
+print(f"Loading Faster-Whisper model {WHISPER_MODEL_SIZE}...", flush=True)
+model = WhisperModel(WHISPER_MODEL_SIZE, device="cuda", compute_type="float16")
+print("Model loaded.", flush=True)
+
+print("Loading dataset...", flush=True)
+cv_17 = load_dataset("mozilla-foundation/common_voice_17_0", "pt", split="train")
+print("Done.", flush=True)
 
 # cv_17_sample = cv_17.select(range(100))
 
@@ -28,11 +31,12 @@ smoother = SmoothingFunction().method1
 
 def resample_audio(audio_array, original_sr, target_sr=16000):
     tensor = torch.FloatTensor(audio_array).unsqueeze(0)
-    return torchaudio.functional.resample(
+    resampled = torchaudio.functional.resample(
         tensor, 
         orig_freq=original_sr, 
         new_freq=target_sr
-    ).squeeze(0).numpy()
+    )
+    return resampled.squeeze(0).cpu().detach().numpy()
 
 for sample in tqdm(cv_17, desc="Processing samples"):
     audio = sample["audio"]
@@ -72,7 +76,7 @@ avg_bleu = np.mean(bleu_scores)
 median_bleu = np.median(bleu_scores)
 std_bleu = np.std(bleu_scores)
 
-print("\nFinal Evaluation Results:")
+print("\nFinal Evaluation Results:", flush=True)
 print(f"Average BLEU: {avg_bleu:.4f}")
 print(f"Median BLEU: {median_bleu:.4f}")
 print(f"BLEU Std Dev: {std_bleu:.4f}")
