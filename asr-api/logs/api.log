@@ -85,3 +85,35 @@ binascii.Error: Incorrect padding
 [2025-04-24 20:25:51,592] [INFO] Received transcription request
 [2025-04-24 20:25:51,692] [INFO] Processing audio with duration 00:06.060
 [2025-04-24 20:25:51,817] [INFO] Transcription successful:  E este é uma fala, falar de normalmente, com bastante reflexão na verdade na fala.
+[2025-04-24 21:48:59,435] [INFO] Loading Faster-Whisper model...
+[2025-04-24 21:49:00,035] [INFO] Model loaded.
+[2025-04-24 21:49:37,687] [INFO] Received transcription request
+[2025-04-24 21:49:37,802] [INFO] Processing audio with duration 00:06.480
+[2025-04-24 21:49:38,193] [INFO] Transcription successful:  Portanto, logo depois de resolver este problema, não se esqueça de criar um comite.
+[2025-04-25 13:06:10,519] [INFO] Loading Faster-Whisper model...
+[2025-04-25 13:08:42,943] [INFO] Loading Faster-Whisper model...
+[2025-04-25 13:08:45,013] [INFO] Model loaded.
+[2025-04-25 13:09:32,627] [INFO] Received transcription request
+[2025-04-25 13:09:32,722] [INFO] Processing audio with duration 00:02.760
+[2025-04-25 13:09:33,327] [INFO] Transcription successful:  1, 2, 3 testando
+[2025-04-25 15:48:29,817] [INFO] Received transcription request
+[2025-04-25 15:48:29,948] [INFO] Processing audio with duration 00:03.120
+[2025-04-25 15:50:45,553] [INFO] Loading Faster-Whisper model...
+[2025-04-25 15:50:48,112] [INFO] Model loaded.
+[2025-04-25 15:51:27,414] [INFO] Received transcription request
+[2025-04-25 15:51:27,571] [INFO] Processing audio with duration 00:03.060
+[2025-04-25 15:51:30,831] [INFO] Transcription successful:  O Hato junho a roupa do Rei de rua.
+[2025-04-25 16:09:14,928] [INFO] Loading Faster-Whisper model...
+[2025-04-25 16:09:20,186] [INFO] Model loaded.
+[2025-04-25 16:10:12,839] [INFO] Received transcription request
+[2025-04-25 16:10:12,920] [INFO] Processing audio with duration 00:03.480
+[2025-04-25 16:10:13,951] [INFO] Transcription successful:  O rato roeu a roupa do rei de Roma.
+[2025-04-25 16:26:42,088] [INFO] Loading Faster-Whisper model...
+[2025-04-25 16:28:29,756] [INFO] Loading Faster-Whisper model...
+[2025-04-25 16:28:37,260] [INFO] Model loaded.
+[2025-04-25 16:28:56,085] [INFO] Received transcription request
+[2025-04-25 16:28:56,252] [INFO] Processing audio with duration 00:04.020
+[2025-04-25 16:29:03,646] [INFO] Transcription successful:  O rato roeu a roupa do rei de roubo.
+[2025-04-25 16:30:02,542] [INFO] Received transcription request
+[2025-04-25 16:30:02,697] [INFO] Processing audio with duration 00:04.320
+[2025-04-25 16:30:08,482] [INFO] Transcription successful:  O rato reiu a roupa do rei de Roma.
