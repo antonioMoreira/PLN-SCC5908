@@ -90,3 +90,5 @@ cv_17_df.to_csv("cv_17_processed.csv", index=False)
 # Average BLEU: 0.3193
 # Median BLEU: 0.1729
 # BLEU Std Dev: 0.3315
+# Em um teste com o whisper large-v3 em um sample menor (100 instâncias), tivemos:
+# Average BLEU: 0.5
