@@ -3,7 +3,7 @@ import { useUserMedia } from "@vueuse/core";
 import { recordAudio } from "../utils/recordAudio";
 import { blob2Base64 } from "../utils/blobToBase64";
 import { ref } from "vue";
-import { delay } from "es-toolkit";
+// import { delay } from "es-toolkit";
 
 // defineEmits is a macro in Vue 3.
 const emit = defineEmits(["done"]);
