@@ -117,3 +117,83 @@ binascii.Error: Incorrect padding
 [2025-04-25 16:30:02,542] [INFO] Received transcription request
 [2025-04-25 16:30:02,697] [INFO] Processing audio with duration 00:04.320
 [2025-04-25 16:30:08,482] [INFO] Transcription successful:  O rato reiu a roupa do rei de Roma.
+[2025-05-07 13:48:04,143] [INFO] Loading Faster-Whisper model...
+[2025-05-07 13:48:05,753] [INFO] Model loaded.
+[2025-05-07 13:48:29,458] [INFO] Received transcription request
+[2025-05-07 13:48:29,561] [INFO] Processing audio with duration 00:03.600
+[2025-05-07 13:48:30,463] [INFO] Transcription successful:  Obrigado por assistir.
+[2025-05-07 13:59:47,687] [INFO] Received transcription request
+[2025-05-07 13:59:47,784] [INFO] Processing audio with duration 00:02.880
+[2025-05-07 13:59:47,847] [ERROR] Transcription failed
+Traceback (most recent call last):
+  File "/home/antonio/Documents/Mestrado/PLN/PLN-SCC5908/asr-api/asr_api/app.py", line 64, in transcribe_audio
+    transcription = " ".join([segment.text for segment in segments])
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/antonio/Documents/Mestrado/PLN/PLN-SCC5908/asr-api/asr_api/app.py", line 64, in <listcomp>
+    transcription = " ".join([segment.text for segment in segments])
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/antonio/venvs/pln-asr-py31110/lib/python3.11/site-packages/faster_whisper/transcribe.py", line 1148, in generate_segments
+    encoder_output = self.encode(segment)
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/home/antonio/venvs/pln-asr-py31110/lib/python3.11/site-packages/faster_whisper/transcribe.py", line 1358, in encode
+    return self.model.encode(features, to_cpu=to_cpu)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: CUDA failed with error out of memory
+[2025-05-07 14:00:10,555] [INFO] Received transcription request
+[2025-05-07 14:00:10,640] [INFO] Processing audio with duration 00:02.700
+[2025-05-07 14:00:10,659] [ERROR] Transcription failed
+Traceback (most recent call last):
+  File "/home/antonio/Documents/Mestrado/PLN/PLN-SCC5908/asr-api/asr_api/app.py", line 64, in transcribe_audio
+    transcription = " ".join([segment.text for segment in segments])
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/antonio/Documents/Mestrado/PLN/PLN-SCC5908/asr-api/asr_api/app.py", line 64, in <listcomp>
+    transcription = " ".join([segment.text for segment in segments])
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/antonio/venvs/pln-asr-py31110/lib/python3.11/site-packages/faster_whisper/transcribe.py", line 1148, in generate_segments
+    encoder_output = self.encode(segment)
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/home/antonio/venvs/pln-asr-py31110/lib/python3.11/site-packages/faster_whisper/transcribe.py", line 1358, in encode
+    return self.model.encode(features, to_cpu=to_cpu)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: CUDA failed with error out of memory
+[2025-05-07 14:00:29,962] [INFO] Received transcription request
+[2025-05-07 14:00:30,024] [INFO] Processing audio with duration 00:01.980
+[2025-05-07 14:00:30,052] [ERROR] Transcription failed
+Traceback (most recent call last):
+  File "/home/antonio/Documents/Mestrado/PLN/PLN-SCC5908/asr-api/asr_api/app.py", line 64, in transcribe_audio
+    transcription = " ".join([segment.text for segment in segments])
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/antonio/Documents/Mestrado/PLN/PLN-SCC5908/asr-api/asr_api/app.py", line 64, in <listcomp>
+    transcription = " ".join([segment.text for segment in segments])
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/antonio/venvs/pln-asr-py31110/lib/python3.11/site-packages/faster_whisper/transcribe.py", line 1148, in generate_segments
+    encoder_output = self.encode(segment)
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/home/antonio/venvs/pln-asr-py31110/lib/python3.11/site-packages/faster_whisper/transcribe.py", line 1358, in encode
+    return self.model.encode(features, to_cpu=to_cpu)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: CUDA failed with error out of memory
+[2025-05-07 14:01:30,423] [INFO] Received transcription request
+[2025-05-07 14:01:30,488] [INFO] Processing audio with duration 00:02.400
+[2025-05-07 14:01:30,529] [ERROR] Transcription failed
+Traceback (most recent call last):
+  File "/home/antonio/Documents/Mestrado/PLN/PLN-SCC5908/asr-api/asr_api/app.py", line 64, in transcribe_audio
+    transcription = " ".join([segment.text for segment in segments])
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/antonio/Documents/Mestrado/PLN/PLN-SCC5908/asr-api/asr_api/app.py", line 64, in <listcomp>
+    transcription = " ".join([segment.text for segment in segments])
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/antonio/venvs/pln-asr-py31110/lib/python3.11/site-packages/faster_whisper/transcribe.py", line 1148, in generate_segments
+    encoder_output = self.encode(segment)
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/home/antonio/venvs/pln-asr-py31110/lib/python3.11/site-packages/faster_whisper/transcribe.py", line 1358, in encode
+    return self.model.encode(features, to_cpu=to_cpu)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: CUDA failed with error out of memory
+[2025-05-07 14:04:13,396] [INFO] Loading Faster-Whisper model...
+[2025-05-07 14:04:14,755] [INFO] Model loaded.
+[2025-05-07 14:04:33,709] [INFO] Received transcription request
+[2025-05-07 14:04:33,798] [INFO] Processing audio with duration 00:02.280
+[2025-05-07 14:04:34,615] [INFO] Transcription successful:  Um, dois, três.
+[2025-05-07 14:04:51,522] [INFO] Loading Faster-Whisper model...
+[2025-05-07 14:04:52,663] [INFO] Model loaded.
