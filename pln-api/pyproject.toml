@@ -1,0 +1,28 @@
+[project]
+name = "pln-api"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Antonio Moreira",email = "antoniomoreira@pecege.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "faster-whisper (>=1.1.1,<2.0.0)",
+    "starlette (>=0.46.2,<0.47.0)",
+    "uvicorn (>=0.34.2,<0.35.0)",
+    "stanza (>=1.10.1,<2.0.0)",
+    "rich (>=14.0.0,<15.0.0)",
+    "numpy (>=2.2.5,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+jupyterlab = "^4.4.2"
+setuptools = "^80.3.1"
+wheel = "^0.45.1"
+

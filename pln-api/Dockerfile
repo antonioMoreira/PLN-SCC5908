@@ -27,17 +27,13 @@ RUN apt update && \
 
 # ------------ Google SDK --------------------------------------------
 # Ref.: https://cloud.google.com/sdk/docs/install?hl=pt-br | "Dica do Docker. Se o comando 'apt-key' não for compatível"
-RUN echo "deb [signed-by=/usr/share/keyrings/cloud.google.asc] http://packages.cloud.google.com/apt cloud-sdk main" | tee -a /etc/apt/sources.list.d/google-cloud-sdk.list && curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | tee /usr/share/keyrings/cloud.google.asc && apt-get update -y && apt-get install google-cloud-sdk -y
+#RUN echo "deb [signed-by=/usr/share/keyrings/cloud.google.asc] http://packages.cloud.google.com/apt cloud-sdk main" | tee -a /etc/apt/sources.list.d/google-cloud-sdk.list && curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | tee /usr/share/keyrings/cloud.google.asc && apt-get update -y && apt-get install google-cloud-sdk -y
 # Para pegar o Application Default Credentials: $ gcloud auth application-default login
 # --------------------------------------------------------------------
 
 # Connection
 ENV PORT=5678
 EXPOSE 5678
-
-#CMD ["source", "/mnt/filestore/venvs/skylar-api-ub2204-py31012/bin/activate", "&&", "python", "./skylar_api/legenda_live/app-ws.py"]
-RUN mkdir chunks_in chunks_out
-
 
 # Can remove this ↓ if check whether or not filestore is mounted
 # CMD ["/bin/sleep", "infinity"]
