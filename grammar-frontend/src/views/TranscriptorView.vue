@@ -53,7 +53,8 @@ async function stopRecordingAndGetBlob() {
 
   console.log(base64);
 
-  const result = await fetch("http://localhost:5679/transcribe", {
+  // http://localhost:5679/transcribe
+  const result = await fetch("https://auth.legenda.live/ws-7/transcribe", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -81,6 +82,7 @@ async function stopRecordingAndGetBlob() {
 </script>
 
 <template>
+  <h1 class="title">GramatiQuiz</h1>
   <button v-if="!isRecording" class="button is-link" @click="startRecording">
     Gravar
   </button>

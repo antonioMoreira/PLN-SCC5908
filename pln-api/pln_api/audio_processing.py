@@ -16,7 +16,9 @@ def get_transcription(audio_bytes:bytes) -> str:
     # Assuming you have a function `transcribe_audio` that handles the API call
     audio_np = decode_audio(io.BytesIO(audio_bytes))
     assert isinstance(audio_np, np.ndarray), "Audio data is not in the expected format."
+    print("transcribing audio...")
     segments,_ = model.transcribe(audio_np, language='pt')
     transcription = " ".join([segment.text for segment in segments])
+    print(f"Transcription: {transcription}")
     return transcription
 

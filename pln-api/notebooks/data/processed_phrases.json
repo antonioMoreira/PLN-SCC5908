@@ -1,0 +1,9150 @@
+[
+  {
+    "pharase": "O gato dorme no sofá.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "gato",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "dorme",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "sofá",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Maria foi à escola com João.",
+    "tags": [
+      {
+        "word": "Maria",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "foi",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "escola",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "João",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Eles não quiseram sair na chuva.",
+    "tags": [
+      {
+        "word": "Eles",
+        "tag": "Pronome"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "quiseram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "sair",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "chuva",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "As estrelas brilham à noite.",
+    "tags": [
+      {
+        "word": "As",
+        "tag": "Determinante"
+      },
+      {
+        "word": "estrelas",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "brilham",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "noite",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Pedro e Ana jogaram futebol no parque.",
+    "tags": [
+      {
+        "word": "Pedro",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "e",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "Ana",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "jogaram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "futebol",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "parque",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A professora explicou a matéria com paciência.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "professora",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "explicou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "matéria",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "paciência",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Eu gosto muito de sorvete.",
+    "tags": [
+      {
+        "word": "Eu",
+        "tag": "Pronome"
+      },
+      {
+        "word": "gosto",
+        "tag": "Verbo"
+      },
+      {
+        "word": "muito",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "sorvete",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Você já terminou o dever de casa?",
+    "tags": [
+      {
+        "word": "Você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "já",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "terminou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "dever",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "casa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ontem, choveu bastante durante a tarde.",
+    "tags": [
+      {
+        "word": "Ontem",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "choveu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "bastante",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "durante",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "tarde",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A lua estava linda no céu escuro.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "lua",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "estava",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "linda",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "céu",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "escuro",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "João sempre estuda antes das provas.",
+    "tags": [
+      {
+        "word": "João",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "sempre",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "estuda",
+        "tag": "Verbo"
+      },
+      {
+        "word": "antes",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "as",
+        "tag": "Determinante"
+      },
+      {
+        "word": "provas",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Gosto de ler livros de aventura e mistério.",
+    "tags": [
+      {
+        "word": "Gosto",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "ler",
+        "tag": "Verbo"
+      },
+      {
+        "word": "livros",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "aventura",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "e",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "mistério",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O cachorro latiu alto quando viu o carteiro.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "cachorro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "latiu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "alto",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "quando",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "viu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "carteiro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Se chover, vamos ficar em casa.",
+    "tags": [
+      {
+        "word": "Se",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "chover",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "vamos",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "ficar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "casa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A biblioteca abre às oito da manhã.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "biblioteca",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "abre",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "as",
+        "tag": "Determinante"
+      },
+      {
+        "word": "oito",
+        "tag": "Numeral"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "manhã",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Meu irmão mais novo adora dinossauros.",
+    "tags": [
+      {
+        "word": "Meu",
+        "tag": "Determinante"
+      },
+      {
+        "word": "irmão",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "mais",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "novo",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "adora",
+        "tag": "Verbo"
+      },
+      {
+        "word": "dinossauros",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O filme que vimos ontem foi emocionante.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "filme",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "vimos",
+        "tag": "Verbo"
+      },
+      {
+        "word": "ontem",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "foi",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "emocionante",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Quando crescer, quero ser astronauta.",
+    "tags": [
+      {
+        "word": "Quando",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "crescer",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "quero",
+        "tag": "Verbo"
+      },
+      {
+        "word": "ser",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "astronauta",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "As crianças correram pelo pátio da escola.",
+    "tags": [
+      {
+        "word": "As",
+        "tag": "Determinante"
+      },
+      {
+        "word": "crianças",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "correram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "pátio",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "escola",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Estudar ajuda a alcançar os sonhos.",
+    "tags": [
+      {
+        "word": "Estudar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "ajuda",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "alcançar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "sonhos",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A luz da rua apagou cedo.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "luz",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "rua",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "apagou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "cedo",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A criança viu o homem com o binóculo.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "criança",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "viu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "homem",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "binóculo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ele pintou o quadro com o pincel novo.",
+    "tags": [
+      {
+        "word": "Ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "pintou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "quadro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "pincel",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "novo",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O policial observou o suspeito andando pela praça.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "policial",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "observou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "suspeito",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "andando",
+        "tag": "Verbo"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "praça",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O aluno entregou a prova ao professor.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "aluno",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "entregou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "prova",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "professor",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O jogo foi adiado por causa da chuva.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "jogo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "foi",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "adiado",
+        "tag": "Verbo"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "causa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "chuva",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A planta cresce rápido com luz natural.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "planta",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "cresce",
+        "tag": "Verbo"
+      },
+      {
+        "word": "rápido",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "luz",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "natural",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O banco estava fechado no domingo.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "banco",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "estava",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "fechado",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "domingo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Eles correram para pegar o ônibus.",
+    "tags": [
+      {
+        "word": "Eles",
+        "tag": "Pronome"
+      },
+      {
+        "word": "correram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "para",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "pegar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "ônibus",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O livro sobreviveu à enchente.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "livro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "sobreviveu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "enchente",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A menina caiu na escada e machucou o braço.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "menina",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "caiu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "escada",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "e",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "machucou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "braço",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Os alunos estudaram bastante para a prova final.",
+    "tags": [
+      {
+        "word": "Os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "alunos",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "estudaram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "bastante",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "para",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "prova",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "final",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A janela quebrou com o vento forte.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "janela",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "quebrou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "vento",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "forte",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Todos esperavam pelo anúncio do resultado.",
+    "tags": [
+      {
+        "word": "Todos",
+        "tag": "Pronome"
+      },
+      {
+        "word": "esperavam",
+        "tag": "Verbo"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "anúncio",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "resultado",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ana trouxe flores para a professora.",
+    "tags": [
+      {
+        "word": "Ana",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "trouxe",
+        "tag": "Verbo"
+      },
+      {
+        "word": "flores",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "para",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "professora",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O motorista parou o carro perto da praça.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "motorista",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "parou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "carro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "perto",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "praça",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O aluno nota 10 tirou uma nota ruim.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "aluno",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "nota",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "10",
+        "tag": "Numeral"
+      },
+      {
+        "word": "tirou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "uma",
+        "tag": "Determinante"
+      },
+      {
+        "word": "nota",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "ruim",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Eles discutiram o plano com calma.",
+    "tags": [
+      {
+        "word": "Eles",
+        "tag": "Pronome"
+      },
+      {
+        "word": "discutiram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "plano",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "calma",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A moça que canta chegou agora.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "moça",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "canta",
+        "tag": "Verbo"
+      },
+      {
+        "word": "chegou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "agora",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O cão mordeu o carteiro brincando.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "cão",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "mordeu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "carteiro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "brincando",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Quando chove, os carros deslizam mais.",
+    "tags": [
+      {
+        "word": "Quando",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "chove",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "carros",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "deslizam",
+        "tag": "Verbo"
+      },
+      {
+        "word": "mais",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Eu sabia que ela sabia a resposta.",
+    "tags": [
+      {
+        "word": "Eu",
+        "tag": "Pronome"
+      },
+      {
+        "word": "sabia",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "ela",
+        "tag": "Pronome"
+      },
+      {
+        "word": "sabia",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "resposta",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O menino correu da sombra assustadora.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "menino",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "correu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "sombra",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "assustadora",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O velho relógio parou ontem.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "velho",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "relógio",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "parou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "ontem",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A luz verde piscou duas vezes.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "luz",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "verde",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "piscou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "duas",
+        "tag": "Numeral"
+      },
+      {
+        "word": "vezes",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O passarinho caiu do ninho enquanto voava.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "passarinho",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "caiu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "ninho",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "enquanto",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "voava",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A mãe viu o filho com o binóculo.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "mãe",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "viu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "filho",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "binóculo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A palavra certa muda tudo.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "palavra",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "certa",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "muda",
+        "tag": "Verbo"
+      },
+      {
+        "word": "tudo",
+        "tag": "Pronome"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O aluno passou a noite estudando.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "aluno",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "passou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "noite",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "estudando",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Eles deixaram o cachorro no quintal preso.",
+    "tags": [
+      {
+        "word": "Eles",
+        "tag": "Pronome"
+      },
+      {
+        "word": "deixaram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "cachorro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "quintal",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "preso",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O gato correu.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "gato",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "correu",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ana comeu o bolo.",
+    "tags": [
+      {
+        "word": "Ana",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "comeu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "bolo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O sol brilha forte.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "sol",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "brilha",
+        "tag": "Verbo"
+      },
+      {
+        "word": "forte",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Eu gosto de sorvete.",
+    "tags": [
+      {
+        "word": "Eu",
+        "tag": "Pronome"
+      },
+      {
+        "word": "gosto",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "sorvete",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A menina leu um livro.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "menina",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "leu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "um",
+        "tag": "Determinante"
+      },
+      {
+        "word": "livro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O cachorro latiu muito.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "cachorro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "latiu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "muito",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A bola caiu no chão.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "bola",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "caiu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "chão",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Mamãe fez arroz.",
+    "tags": [
+      {
+        "word": "Mamãe",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "fez",
+        "tag": "Verbo"
+      },
+      {
+        "word": "arroz",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "João chegou cedo à escola.",
+    "tags": [
+      {
+        "word": "João",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "chegou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "cedo",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "escola",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Maria não gostou do filme.",
+    "tags": [
+      {
+        "word": "Maria",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "gostou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "filme",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Os alunos estudaram bastante.",
+    "tags": [
+      {
+        "word": "Os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "alunos",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "estudaram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "bastante",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A professora explicou com calma.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "professora",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "explicou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "calma",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ontem choveu muito na cidade.",
+    "tags": [
+      {
+        "word": "Ontem",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "choveu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "muito",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "cidade",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O menino perdeu o ônibus.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "menino",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "perdeu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "ônibus",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Eles correram porque estavam atrasados.",
+    "tags": [
+      {
+        "word": "Eles",
+        "tag": "Pronome"
+      },
+      {
+        "word": "correram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "porque",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "estavam",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "atrasados",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A criança viu o homem com o binóculo.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "criança",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "viu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "homem",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "binóculo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O aluno nota 10 tirou uma nota ruim.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "aluno",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "nota",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "10",
+        "tag": "Numeral"
+      },
+      {
+        "word": "tirou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "uma",
+        "tag": "Determinante"
+      },
+      {
+        "word": "nota",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "ruim",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A luz da rua apagou cedo.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "luz",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "rua",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "apagou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "cedo",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O cachorro mordeu o carteiro brincando.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "cachorro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "mordeu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "carteiro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "brincando",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A palavra certa muda tudo.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "palavra",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "certa",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "muda",
+        "tag": "Verbo"
+      },
+      {
+        "word": "tudo",
+        "tag": "Pronome"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O banco estava fechado no domingo.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "banco",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "estava",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "fechado",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "domingo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Quando chove, os carros deslizam mais.",
+    "tags": [
+      {
+        "word": "Quando",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "chove",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "carros",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "deslizam",
+        "tag": "Verbo"
+      },
+      {
+        "word": "mais",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O policial observou o suspeito andando pela praça.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "policial",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "observou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "suspeito",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "andando",
+        "tag": "Verbo"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "praça",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A mãe viu o filho com o binóculo.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "mãe",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "viu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "filho",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "binóculo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ele sabia pintar casas antigas.",
+    "tags": [
+      {
+        "word": "Ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "sabia",
+        "tag": "Verbo"
+      },
+      {
+        "word": "pintar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "casas",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "antigas",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O relógio parou sem motivo aparente.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "relógio",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "parou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "sem",
+        "tag": "Preposição"
+      },
+      {
+        "word": "motivo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "aparente",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A música tocava enquanto ela estudava.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "música",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "tocava",
+        "tag": "Verbo"
+      },
+      {
+        "word": "enquanto",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "ela",
+        "tag": "Pronome"
+      },
+      {
+        "word": "estudava",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Pedro viu a mulher com a bolsa vermelha.",
+    "tags": [
+      {
+        "word": "Pedro",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "viu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "mulher",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "bolsa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "vermelha",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A folha caiu da árvore.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "folha",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "caiu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "árvore",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O aluno apresentou o trabalho atrasado.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "aluno",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "apresentou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "trabalho",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "atrasado",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Chico foi ao banco e sacou dinheiro.",
+    "tags": [
+      {
+        "word": "Chico",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "foi",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "banco",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "e",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "sacou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "dinheiro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Eles abriram a janela com dificuldade.",
+    "tags": [
+      {
+        "word": "Eles",
+        "tag": "Pronome"
+      },
+      {
+        "word": "abriram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "janela",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "dificuldade",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A professora corrigiu as provas ontem.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "professora",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "corrigiu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "as",
+        "tag": "Determinante"
+      },
+      {
+        "word": "provas",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "ontem",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A menina com o vestido azul dançou.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "menina",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "vestido",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "azul",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "dançou",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ele falou com a diretora nervoso.",
+    "tags": [
+      {
+        "word": "Ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "falou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "diretora",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "nervoso",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Nós vimos o cachorro da vizinha correr.",
+    "tags": [
+      {
+        "word": "Nós",
+        "tag": "Pronome"
+      },
+      {
+        "word": "vimos",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "cachorro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "vizinha",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "correr",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Marcos levou flores para a mãe cansado.",
+    "tags": [
+      {
+        "word": "Marcos",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "levou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "flores",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "para",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "mãe",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "cansado",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A água do rio subiu rapidamente.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "água",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "rio",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "subiu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "rapidamente",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Eles deixaram o portão aberto.",
+    "tags": [
+      {
+        "word": "Eles",
+        "tag": "Pronome"
+      },
+      {
+        "word": "deixaram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "portão",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "aberto",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O diretor aprovou a ideia dela.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "diretor",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "aprovou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "ideia",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "ela",
+        "tag": "Pronome"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O menino correu com o brinquedo na mão.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "menino",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "correu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "brinquedo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "mão",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ela terminou o livro chorando.",
+    "tags": [
+      {
+        "word": "Ela",
+        "tag": "Pronome"
+      },
+      {
+        "word": "terminou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "livro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "chorando",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O artista desenhou o retrato com carvão.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "artista",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "desenhou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "retrato",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "carvão",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A criança olhava o quadro confusa.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "criança",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "olhava",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "quadro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "confusa",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Apesar de estar cansado, ele decidiu continuar estudando até tarde.",
+    "tags": [
+      {
+        "word": "Apesar",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "estar",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "cansado",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "decidiu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "continuar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "estudando",
+        "tag": "Verbo"
+      },
+      {
+        "word": "até",
+        "tag": "Preposição"
+      },
+      {
+        "word": "tarde",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A casa que foi construída pelo avô de João permanece de pé até hoje.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "casa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "foi",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "construída",
+        "tag": "Verbo"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "avô",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "João",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "permanece",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "pé",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "até",
+        "tag": "Preposição"
+      },
+      {
+        "word": "hoje",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ela disse ao amigo que viu na praça que iria viajar no fim de semana.",
+    "tags": [
+      {
+        "word": "Ela",
+        "tag": "Pronome"
+      },
+      {
+        "word": "disse",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "amigo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "viu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "praça",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "iria",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "viajar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "fim",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "semana",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Embora o projeto tenha sido aprovado, muitos questionaram sua viabilidade econômica.",
+    "tags": [
+      {
+        "word": "Embora",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "projeto",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "tenha",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "sido",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "aprovado",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "muitos",
+        "tag": "Pronome"
+      },
+      {
+        "word": "questionaram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "sua",
+        "tag": "Determinante"
+      },
+      {
+        "word": "viabilidade",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "econômica",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Os dados foram analisados cuidadosamente pelos pesquisadores antes da publicação do artigo.",
+    "tags": [
+      {
+        "word": "Os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "dados",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "foram",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "analisados",
+        "tag": "Verbo"
+      },
+      {
+        "word": "cuidadosamente",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "pesquisadores",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "antes",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "publicação",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "artigo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O homem que ela viu ontem no museu é o mesmo que desapareceu na semana passada.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "homem",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "ela",
+        "tag": "Pronome"
+      },
+      {
+        "word": "viu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "ontem",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "museu",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "é",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "mesmo",
+        "tag": "Pronome"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "desapareceu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "semana",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "passada",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Joana disse que Mariana falou que Beatriz achava que algo estava errado.",
+    "tags": [
+      {
+        "word": "Joana",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "disse",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "Mariana",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "falou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "Beatriz",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "achava",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "algo",
+        "tag": "Pronome"
+      },
+      {
+        "word": "estava",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "errado",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A proposta, apesar de interessante, não foi aceita por causa de restrições orçamentárias.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "proposta",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "apesar",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "interessante",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "foi",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "aceita",
+        "tag": "Verbo"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "causa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "restrições",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "orçamentárias",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Foi informado à imprensa que a decisão tomada pelo conselho será revista.",
+    "tags": [
+      {
+        "word": "Foi",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "informado",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "imprensa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "decisão",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "tomada",
+        "tag": "Verbo"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "conselho",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "será",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "revista",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O estudante, que se destacou durante todo o curso, recebeu uma bolsa internacional.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "estudante",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "se",
+        "tag": "Pronome"
+      },
+      {
+        "word": "destacou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "durante",
+        "tag": "Preposição"
+      },
+      {
+        "word": "todo",
+        "tag": "Determinante"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "curso",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "recebeu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "uma",
+        "tag": "Determinante"
+      },
+      {
+        "word": "bolsa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "internacional",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Embora estivesse chovendo, resolveram sair para caminhar como de costume.",
+    "tags": [
+      {
+        "word": "Embora",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "estivesse",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "chovendo",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "resolveram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "sair",
+        "tag": "Verbo"
+      },
+      {
+        "word": "para",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "caminhar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "como",
+        "tag": "Preposição"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "costume",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Assim que terminou a reunião, ela ligou para o chefe a fim de esclarecer o mal-entendido.",
+    "tags": [
+      {
+        "word": "Assim",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "terminou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "reunião",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "ela",
+        "tag": "Pronome"
+      },
+      {
+        "word": "ligou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "para",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "chefe",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "fim",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "esclarecer",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "mal-entendido",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Se ele tivesse estudado mais, talvez não tivesse repetido de ano.",
+    "tags": [
+      {
+        "word": "Se",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "tivesse",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "estudado",
+        "tag": "Verbo"
+      },
+      {
+        "word": "mais",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "talvez",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "tivesse",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "repetido",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "ano",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ainda que muitos duvidem, é possível que ele conclua o trabalho a tempo.",
+    "tags": [
+      {
+        "word": "Ainda",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "muitos",
+        "tag": "Pronome"
+      },
+      {
+        "word": "duvidem",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "é",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "possível",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "conclua",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "trabalho",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "tempo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Embora parecesse simples, a tarefa exigia atenção redobrada e conhecimento prévio.",
+    "tags": [
+      {
+        "word": "Embora",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "parecesse",
+        "tag": "Verbo"
+      },
+      {
+        "word": "simples",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "tarefa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "exigia",
+        "tag": "Verbo"
+      },
+      {
+        "word": "atenção",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "redobrada",
+        "tag": "Verbo"
+      },
+      {
+        "word": "e",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "conhecimento",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "prévio",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Seja como for, não devemos ignorar o que foi dito na assembleia.",
+    "tags": [
+      {
+        "word": "Seja",
+        "tag": "Verbo"
+      },
+      {
+        "word": "como",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "for",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "devemos",
+        "tag": "Verbo"
+      },
+      {
+        "word": "ignorar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Pronome"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "foi",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "dito",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "assembleia",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Por mais que insistisse, ele não conseguia convencer os demais do seu ponto de vista.",
+    "tags": [
+      {
+        "word": "Por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "mais",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "insistisse",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "conseguia",
+        "tag": "Verbo"
+      },
+      {
+        "word": "convencer",
+        "tag": "Verbo"
+      },
+      {
+        "word": "os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "demais",
+        "tag": "Pronome"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "seu",
+        "tag": "Determinante"
+      },
+      {
+        "word": "ponto",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "vista",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A apresentação, que deveria começar às oito, foi adiada sem maiores explicações.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "apresentação",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "deveria",
+        "tag": "Verbo"
+      },
+      {
+        "word": "começar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "as",
+        "tag": "Determinante"
+      },
+      {
+        "word": "oito",
+        "tag": "Numeral"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "foi",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "adiada",
+        "tag": "Verbo"
+      },
+      {
+        "word": "sem",
+        "tag": "Preposição"
+      },
+      {
+        "word": "maiores",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "explicações",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Quando enfim chegaram ao destino, perceberam que tinham esquecido os documentos.",
+    "tags": [
+      {
+        "word": "Quando",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "enfim",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "chegaram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "destino",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "perceberam",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "tinham",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "esquecido",
+        "tag": "Verbo"
+      },
+      {
+        "word": "os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "documentos",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "E então, sem que ninguém esperasse, ele simplesmente disse: 'enough!'.",
+    "tags": [
+      {
+        "word": "E",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "então",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "sem",
+        "tag": "Preposição"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "ninguém",
+        "tag": "Pronome"
+      },
+      {
+        "word": "esperasse",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "simplesmente",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "disse",
+        "tag": "Verbo"
+      },
+      {
+        "word": ":",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "'",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "enough",
+        "tag": "Outro"
+      },
+      {
+        "word": "!",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "'",
+        "tag": "Pontuação"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ah, se eu soubesse disso antes, teria feito tudo diferente.",
+    "tags": [
+      {
+        "word": "Ah",
+        "tag": "Interjeição"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "se",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "eu",
+        "tag": "Pronome"
+      },
+      {
+        "word": "soubesse",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "isso",
+        "tag": "Pronome"
+      },
+      {
+        "word": "antes",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "teria",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "feito",
+        "tag": "Verbo"
+      },
+      {
+        "word": "tudo",
+        "tag": "Pronome"
+      },
+      {
+        "word": "diferente",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Maria, por gentileza, traga os relatórios até a minha sala.",
+    "tags": [
+      {
+        "word": "Maria",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "gentileza",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "traga",
+        "tag": "Verbo"
+      },
+      {
+        "word": "os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "relatórios",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "até",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "minha",
+        "tag": "Determinante"
+      },
+      {
+        "word": "sala",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Gostaria de saber por que ele não compareceu à reunião.",
+    "tags": [
+      {
+        "word": "Gostaria",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "saber",
+        "tag": "Verbo"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "compareceu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "reunião",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "E então, senhores, devemos começar a apresentação?",
+    "tags": [
+      {
+        "word": "E",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "então",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "senhores",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "devemos",
+        "tag": "Verbo"
+      },
+      {
+        "word": "começar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "apresentação",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Será que alguém explicou o que aconteceu na aula passada?",
+    "tags": [
+      {
+        "word": "Será",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "alguém",
+        "tag": "Pronome"
+      },
+      {
+        "word": "explicou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Pronome"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "aconteceu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "aula",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "passada",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ei! Você esqueceu seu casaco aqui ontem.",
+    "tags": [
+      {
+        "word": "Ei",
+        "tag": "Interjeição"
+      },
+      {
+        "word": "!",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "Você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "esqueceu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "seu",
+        "tag": "Determinante"
+      },
+      {
+        "word": "casaco",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "aqui",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "ontem",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Francamente, não sei como você aguenta tudo isso.",
+    "tags": [
+      {
+        "word": "Francamente",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "sei",
+        "tag": "Verbo"
+      },
+      {
+        "word": "como",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "aguenta",
+        "tag": "Verbo"
+      },
+      {
+        "word": "tudo",
+        "tag": "Pronome"
+      },
+      {
+        "word": "isso",
+        "tag": "Pronome"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O professor perguntou se todos haviam entendido a explicação.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "professor",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "perguntou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "se",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "todos",
+        "tag": "Pronome"
+      },
+      {
+        "word": "haviam",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "entendido",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "explicação",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Meu caro João, espero que esteja se sentindo melhor.",
+    "tags": [
+      {
+        "word": "Meu",
+        "tag": "Interjeição"
+      },
+      {
+        "word": "caro",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "João",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "espero",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "esteja",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "se",
+        "tag": "Pronome"
+      },
+      {
+        "word": "sentindo",
+        "tag": "Verbo"
+      },
+      {
+        "word": "melhor",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ufa, achei que não fosse chegar a tempo!",
+    "tags": [
+      {
+        "word": "Ufa",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "achei",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "fosse",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "chegar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "tempo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "!",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Claro, porque não poderia haver nada mais divertido do que ficar preso no trânsito por horas.",
+    "tags": [
+      {
+        "word": "Claro",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "porque",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "poderia",
+        "tag": "Verbo"
+      },
+      {
+        "word": "haver",
+        "tag": "Verbo"
+      },
+      {
+        "word": "nada",
+        "tag": "Pronome"
+      },
+      {
+        "word": "mais",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "divertido",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Pronome"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "ficar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "preso",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "trânsito",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "horas",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Eu não disse que não queria ajuda, só que talvez não seja necessário agora.",
+    "tags": [
+      {
+        "word": "Eu",
+        "tag": "Pronome"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "disse",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "queria",
+        "tag": "Verbo"
+      },
+      {
+        "word": "ajuda",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "só",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "talvez",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "seja",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "necessário",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "agora",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ele realmente nunca faz nada sem motivo, pelo menos é o que ele diz.",
+    "tags": [
+      {
+        "word": "Ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "realmente",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "nunca",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "faz",
+        "tag": "Verbo"
+      },
+      {
+        "word": "nada",
+        "tag": "Pronome"
+      },
+      {
+        "word": "sem",
+        "tag": "Preposição"
+      },
+      {
+        "word": "motivo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "menos",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "é",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "o",
+        "tag": "Pronome"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "diz",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "De jeito nenhum vou aceitar isso, nem que me paguem o dobro.",
+    "tags": [
+      {
+        "word": "De",
+        "tag": "Preposição"
+      },
+      {
+        "word": "jeito",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "nenhum",
+        "tag": "Determinante"
+      },
+      {
+        "word": "vou",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "aceitar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "isso",
+        "tag": "Pronome"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "nem",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "me",
+        "tag": "Pronome"
+      },
+      {
+        "word": "paguem",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "dobro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Com certeza você não está dizendo a verdade, não é mesmo?",
+    "tags": [
+      {
+        "word": "Com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "certeza",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "está",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "dizendo",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "verdade",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "é",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "mesmo",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ela só queria ajudar, embora ninguém tenha entendido direito.",
+    "tags": [
+      {
+        "word": "Ela",
+        "tag": "Pronome"
+      },
+      {
+        "word": "só",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "queria",
+        "tag": "Verbo"
+      },
+      {
+        "word": "ajudar",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "embora",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "ninguém",
+        "tag": "Pronome"
+      },
+      {
+        "word": "tenha",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "entendido",
+        "tag": "Verbo"
+      },
+      {
+        "word": "direito",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ninguém jamais tinha visto algo tão surpreendente como aquilo.",
+    "tags": [
+      {
+        "word": "Ninguém",
+        "tag": "Pronome"
+      },
+      {
+        "word": "jamais",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "tinha",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "visto",
+        "tag": "Verbo"
+      },
+      {
+        "word": "algo",
+        "tag": "Pronome"
+      },
+      {
+        "word": "tão",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "surpreendente",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "como",
+        "tag": "Preposição"
+      },
+      {
+        "word": "aquilo",
+        "tag": "Pronome"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Não é que eu não goste de estudar, mas prefiro fazer outra coisa.",
+    "tags": [
+      {
+        "word": "Não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "é",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "eu",
+        "tag": "Pronome"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "goste",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "estudar",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "mas",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "prefiro",
+        "tag": "Verbo"
+      },
+      {
+        "word": "fazer",
+        "tag": "Verbo"
+      },
+      {
+        "word": "outra",
+        "tag": "Determinante"
+      },
+      {
+        "word": "coisa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ela estava tão cansada que mal conseguia manter os olhos abertos.",
+    "tags": [
+      {
+        "word": "Ela",
+        "tag": "Pronome"
+      },
+      {
+        "word": "estava",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "tão",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "cansada",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "mal",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "conseguia",
+        "tag": "Verbo"
+      },
+      {
+        "word": "manter",
+        "tag": "Verbo"
+      },
+      {
+        "word": "os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "olhos",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "abertos",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Na verdade, ele até que tentou, mas não deu certo.",
+    "tags": [
+      {
+        "word": "Em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "verdade",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "até",
+        "tag": "Preposição"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "tentou",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "mas",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "deu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "certo",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O gato dorme no sofá.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "gato",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "dorme",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "sofá",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "A menina comeu a maçã.",
+    "tags": [
+      {
+        "word": "A",
+        "tag": "Determinante"
+      },
+      {
+        "word": "menina",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "comeu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "maçã",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ele gosta de jogar futebol.",
+    "tags": [
+      {
+        "word": "Ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "gosta",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "jogar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "futebol",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ontem choveu muito durante a noite.",
+    "tags": [
+      {
+        "word": "Ontem",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "choveu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "muito",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "durante",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "noite",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Você vai à escola amanhã?",
+    "tags": [
+      {
+        "word": "Você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "vai",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "escola",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "amanhã",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O livro está sobre a mesa.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "livro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "está",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "sobre",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "mesa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Maria está estudando para a prova.",
+    "tags": [
+      {
+        "word": "Maria",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "está",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "estudando",
+        "tag": "Verbo"
+      },
+      {
+        "word": "para",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "prova",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Nós moramos em uma casa grande.",
+    "tags": [
+      {
+        "word": "Nós",
+        "tag": "Pronome"
+      },
+      {
+        "word": "moramos",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "uma",
+        "tag": "Determinante"
+      },
+      {
+        "word": "casa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "grande",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ele correu rápido para pegar o ônibus.",
+    "tags": [
+      {
+        "word": "Ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "correu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "rápido",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "para",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "pegar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "ônibus",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Os alunos assistem à aula com atenção.",
+    "tags": [
+      {
+        "word": "Os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "alunos",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "assistem",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "aula",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "atenção",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Será que amanhã vai chover ou o sol vai aparecer?",
+    "tags": [
+      {
+        "word": "Será",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "amanhã",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "vai",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "chover",
+        "tag": "Verbo"
+      },
+      {
+        "word": "ou",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "sol",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "vai",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "aparecer",
+        "tag": "Verbo"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "João, por favor, traga o seu caderno para a aula.",
+    "tags": [
+      {
+        "word": "João",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "favor",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "traga",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "seu",
+        "tag": "Determinante"
+      },
+      {
+        "word": "caderno",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "para",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "aula",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Embora estivesse cansada, Ana continuou trabalhando até tarde.",
+    "tags": [
+      {
+        "word": "Embora",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "estivesse",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "cansada",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "Ana",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "continuou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "trabalhando",
+        "tag": "Verbo"
+      },
+      {
+        "word": "até",
+        "tag": "Preposição"
+      },
+      {
+        "word": "tarde",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ah, que dia longo e cheio de surpresas inesperadas!",
+    "tags": [
+      {
+        "word": "Ah",
+        "tag": "Interjeição"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "que",
+        "tag": "Determinante"
+      },
+      {
+        "word": "dia",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "longo",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "e",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "cheio",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "surpresas",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "inesperadas",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "!",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Não me lembro onde deixei as chaves do carro ontem.",
+    "tags": [
+      {
+        "word": "Não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "me",
+        "tag": "Pronome"
+      },
+      {
+        "word": "lembro",
+        "tag": "Verbo"
+      },
+      {
+        "word": "onde",
+        "tag": "Pronome"
+      },
+      {
+        "word": "deixei",
+        "tag": "Verbo"
+      },
+      {
+        "word": "as",
+        "tag": "Determinante"
+      },
+      {
+        "word": "chaves",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "carro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "ontem",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Se você estudar bastante, certamente passará no exame final.",
+    "tags": [
+      {
+        "word": "Se",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "estudar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "bastante",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "certamente",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "passará",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "exame",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "final",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ele não disse que não gostava do filme, mas parecia desinteressado.",
+    "tags": [
+      {
+        "word": "Ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "disse",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "gostava",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "filme",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "mas",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "parecia",
+        "tag": "Verbo"
+      },
+      {
+        "word": "desinteressado",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Por que você não veio à festa, Maria?",
+    "tags": [
+      {
+        "word": "Por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "veio",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "festa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "Maria",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "É importante que todos os alunos entreguem o trabalho até sexta-feira.",
+    "tags": [
+      {
+        "word": "É",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "importante",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "todos",
+        "tag": "Determinante"
+      },
+      {
+        "word": "os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "alunos",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "entreguem",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "trabalho",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "até",
+        "tag": "Preposição"
+      },
+      {
+        "word": "sexta-feira",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Meu Deus, como isso pode ter acontecido assim tão rápido?",
+    "tags": [
+      {
+        "word": "Meu",
+        "tag": "Interjeição"
+      },
+      {
+        "word": "Deus",
+        "tag": "Interjeição"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "como",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "isso",
+        "tag": "Pronome"
+      },
+      {
+        "word": "pode",
+        "tag": "Verbo"
+      },
+      {
+        "word": "ter",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "acontecido",
+        "tag": "Verbo"
+      },
+      {
+        "word": "assim",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "tão",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "rápido",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ontem à noite, choveu bastante, mas hoje o sol já voltou a brilhar.",
+    "tags": [
+      {
+        "word": "Ontem",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "noite",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "choveu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "bastante",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "mas",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "hoje",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "sol",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "já",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "voltou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "brilhar",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Pedro perguntou se eu queria ir ao cinema com ele.",
+    "tags": [
+      {
+        "word": "Pedro",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "perguntou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "se",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "eu",
+        "tag": "Pronome"
+      },
+      {
+        "word": "queria",
+        "tag": "Verbo"
+      },
+      {
+        "word": "ir",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "cinema",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Finalmente, conseguimos terminar o projeto que estava atrasado.",
+    "tags": [
+      {
+        "word": "Finalmente",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "conseguimos",
+        "tag": "Verbo"
+      },
+      {
+        "word": "terminar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "projeto",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "estava",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "atrasado",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Não acredito que você tenha feito isso, sinceramente.",
+    "tags": [
+      {
+        "word": "Não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "acredito",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "tenha",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "feito",
+        "tag": "Verbo"
+      },
+      {
+        "word": "isso",
+        "tag": "Pronome"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "sinceramente",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Maria e João gostam de jogar basquete e futebol nos finais de semana.",
+    "tags": [
+      {
+        "word": "Maria",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "e",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "João",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": "gostam",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "jogar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "basquete",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "e",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "futebol",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "finais",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "semana",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Embora a chuva tenha parado, o chão ainda está molhado.",
+    "tags": [
+      {
+        "word": "Embora",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "chuva",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "tenha",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "parado",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "chão",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "ainda",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "está",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "molhado",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Você poderia me dizer onde fica a biblioteca?",
+    "tags": [
+      {
+        "word": "Você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "poderia",
+        "tag": "Verbo"
+      },
+      {
+        "word": "me",
+        "tag": "Pronome"
+      },
+      {
+        "word": "dizer",
+        "tag": "Verbo"
+      },
+      {
+        "word": "onde",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "fica",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "biblioteca",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ah, eu realmente não esperava encontrar você aqui!",
+    "tags": [
+      {
+        "word": "Ah",
+        "tag": "Interjeição"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "eu",
+        "tag": "Pronome"
+      },
+      {
+        "word": "realmente",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "esperava",
+        "tag": "Verbo"
+      },
+      {
+        "word": "encontrar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "aqui",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "!",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Quando chegar, avise-me imediatamente, por favor.",
+    "tags": [
+      {
+        "word": "Quando",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "chegar",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "avise",
+        "tag": "Verbo"
+      },
+      {
+        "word": "me",
+        "tag": "Pronome"
+      },
+      {
+        "word": "imediatamente",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "favor",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Os estudantes, que estudaram bastante, passaram com facilidade.",
+    "tags": [
+      {
+        "word": "Os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "estudantes",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "estudaram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "bastante",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "passaram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "facilidade",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Será que você poderia me ajudar a resolver este problema?",
+    "tags": [
+      {
+        "word": "Será",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "poderia",
+        "tag": "Verbo"
+      },
+      {
+        "word": "me",
+        "tag": "Pronome"
+      },
+      {
+        "word": "ajudar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "resolver",
+        "tag": "Verbo"
+      },
+      {
+        "word": "este",
+        "tag": "Determinante"
+      },
+      {
+        "word": "problema",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Meu amigo João, você veio para a festa ontem?",
+    "tags": [
+      {
+        "word": "Meu",
+        "tag": "Determinante"
+      },
+      {
+        "word": "amigo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "João",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "veio",
+        "tag": "Verbo"
+      },
+      {
+        "word": "para",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "festa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "ontem",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Não é que eu não queira ir, mas estou muito cansado hoje.",
+    "tags": [
+      {
+        "word": "Não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "é",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "eu",
+        "tag": "Pronome"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "queira",
+        "tag": "Verbo"
+      },
+      {
+        "word": "ir",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "mas",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "estou",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "muito",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "cansado",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "hoje",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Finalmente, conseguimos terminar tudo antes do prazo final.",
+    "tags": [
+      {
+        "word": "Finalmente",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "conseguimos",
+        "tag": "Verbo"
+      },
+      {
+        "word": "terminar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "tudo",
+        "tag": "Pronome"
+      },
+      {
+        "word": "antes",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "prazo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "final",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ele disse que, embora estivesse doente, iria ao trabalho.",
+    "tags": [
+      {
+        "word": "Ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "disse",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "embora",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "estivesse",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "doente",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "iria",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "trabalho",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Você viu onde deixei meu celular? Não consigo encontrá-lo.",
+    "tags": [
+      {
+        "word": "Você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "viu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "onde",
+        "tag": "Pronome"
+      },
+      {
+        "word": "deixei",
+        "tag": "Verbo"
+      },
+      {
+        "word": "meu",
+        "tag": "Determinante"
+      },
+      {
+        "word": "celular",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "Não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "consigo",
+        "tag": "Verbo"
+      },
+      {
+        "word": "encontrá",
+        "tag": "Verbo"
+      },
+      {
+        "word": "lo",
+        "tag": "Pronome"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Quem disse que estudar não pode ser divertido?",
+    "tags": [
+      {
+        "word": "Quem",
+        "tag": "Pronome"
+      },
+      {
+        "word": "disse",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "estudar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "pode",
+        "tag": "Verbo"
+      },
+      {
+        "word": "ser",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "divertido",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Por favor, me diga se vai chover amanhã cedo.",
+    "tags": [
+      {
+        "word": "Por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "favor",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "me",
+        "tag": "Pronome"
+      },
+      {
+        "word": "diga",
+        "tag": "Verbo"
+      },
+      {
+        "word": "se",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "vai",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "chover",
+        "tag": "Verbo"
+      },
+      {
+        "word": "amanhã",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "cedo",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ela perguntou se eu já havia terminado a lição de casa.",
+    "tags": [
+      {
+        "word": "Ela",
+        "tag": "Pronome"
+      },
+      {
+        "word": "perguntou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "se",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "eu",
+        "tag": "Pronome"
+      },
+      {
+        "word": "já",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "havia",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "terminado",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "lição",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "casa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ah, não acredito que você tenha ganhado a competição!",
+    "tags": [
+      {
+        "word": "Ah",
+        "tag": "Interjeição"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "acredito",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "tenha",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "ganhado",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "competição",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "!",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Enquanto ele falava, todos prestavam muita atenção.",
+    "tags": [
+      {
+        "word": "Enquanto",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "falava",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "todos",
+        "tag": "Pronome"
+      },
+      {
+        "word": "prestavam",
+        "tag": "Verbo"
+      },
+      {
+        "word": "muita",
+        "tag": "Determinante"
+      },
+      {
+        "word": "atenção",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Não sei se vou conseguir terminar o trabalho a tempo.",
+    "tags": [
+      {
+        "word": "Não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "sei",
+        "tag": "Verbo"
+      },
+      {
+        "word": "se",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "vou",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "conseguir",
+        "tag": "Verbo"
+      },
+      {
+        "word": "terminar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "trabalho",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "tempo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Por que você não me avisou antes de sair?",
+    "tags": [
+      {
+        "word": "Por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "me",
+        "tag": "Pronome"
+      },
+      {
+        "word": "avisou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "antes",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "sair",
+        "tag": "Verbo"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ah, que surpresa agradável encontrar você aqui!",
+    "tags": [
+      {
+        "word": "Ah",
+        "tag": "Interjeição"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "que",
+        "tag": "Determinante"
+      },
+      {
+        "word": "surpresa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "agradável",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "encontrar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "aqui",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "!",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Mesmo que esteja chovendo, iremos ao parque.",
+    "tags": [
+      {
+        "word": "Mesmo",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "esteja",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "chovendo",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "iremos",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "parque",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Você poderia me explicar como funciona essa máquina?",
+    "tags": [
+      {
+        "word": "Você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "poderia",
+        "tag": "Verbo"
+      },
+      {
+        "word": "me",
+        "tag": "Pronome"
+      },
+      {
+        "word": "explicar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "como",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "funciona",
+        "tag": "Verbo"
+      },
+      {
+        "word": "essa",
+        "tag": "Determinante"
+      },
+      {
+        "word": "máquina",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ela não queria sair, mas acabou cedendo à pressão dos amigos.",
+    "tags": [
+      {
+        "word": "Ela",
+        "tag": "Pronome"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "queria",
+        "tag": "Verbo"
+      },
+      {
+        "word": "sair",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "mas",
+        "tag": "Conjunção Coordenativa"
+      },
+      {
+        "word": "acabou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "cedendo",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "pressão",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "amigos",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Será que amanhã teremos aula de matemática?",
+    "tags": [
+      {
+        "word": "Será",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "amanhã",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "teremos",
+        "tag": "Verbo"
+      },
+      {
+        "word": "aula",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "matemática",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Meu irmão, você já terminou de ler aquele livro?",
+    "tags": [
+      {
+        "word": "Meu",
+        "tag": "Determinante"
+      },
+      {
+        "word": "irmão",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "já",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "terminou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "ler",
+        "tag": "Verbo"
+      },
+      {
+        "word": "aquele",
+        "tag": "Determinante"
+      },
+      {
+        "word": "livro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Depois que o sol se pôs, o frio começou a aumentar.",
+    "tags": [
+      {
+        "word": "Depois",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "sol",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "se",
+        "tag": "Pronome"
+      },
+      {
+        "word": "pôs",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "frio",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "começou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "aumentar",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "O professor explicou a lição, embora alguns alunos não tenham entendido.",
+    "tags": [
+      {
+        "word": "O",
+        "tag": "Determinante"
+      },
+      {
+        "word": "professor",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "explicou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "lição",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "embora",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "alguns",
+        "tag": "Determinante"
+      },
+      {
+        "word": "alunos",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "tenham",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "entendido",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Você viu o que aconteceu na rua principal hoje?",
+    "tags": [
+      {
+        "word": "Você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "viu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Pronome"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "aconteceu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "rua",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "principal",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "hoje",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Por favor, não se esqueça de entregar o relatório amanhã.",
+    "tags": [
+      {
+        "word": "Por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "favor",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "se",
+        "tag": "Pronome"
+      },
+      {
+        "word": "esqueça",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "entregar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "relatório",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "amanhã",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Eu acho que ele não vai gostar da surpresa que preparamos.",
+    "tags": [
+      {
+        "word": "Eu",
+        "tag": "Pronome"
+      },
+      {
+        "word": "acho",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "vai",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "gostar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "surpresa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "preparamos",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Que ótimo que você conseguiu resolver o problema!",
+    "tags": [
+      {
+        "word": "Que",
+        "tag": "Determinante"
+      },
+      {
+        "word": "ótimo",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "conseguiu",
+        "tag": "Verbo"
+      },
+      {
+        "word": "resolver",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "problema",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "!",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Mesmo que ele tente, não conseguirá mudar a decisão.",
+    "tags": [
+      {
+        "word": "Mesmo",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "ele",
+        "tag": "Pronome"
+      },
+      {
+        "word": "tente",
+        "tag": "Verbo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "conseguirá",
+        "tag": "Verbo"
+      },
+      {
+        "word": "mudar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "decisão",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Você já pensou no que vai fazer nas férias?",
+    "tags": [
+      {
+        "word": "Você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "já",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "pensou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Pronome"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "vai",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "fazer",
+        "tag": "Verbo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "as",
+        "tag": "Determinante"
+      },
+      {
+        "word": "férias",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ah, como eu gostaria de viajar pelo mundo inteiro!",
+    "tags": [
+      {
+        "word": "Ah",
+        "tag": "Interjeição"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "como",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "eu",
+        "tag": "Pronome"
+      },
+      {
+        "word": "gostaria",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "viajar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "mundo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "inteiro",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "!",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Se eu soubesse antes, teria me preparado melhor para a prova.",
+    "tags": [
+      {
+        "word": "Se",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "eu",
+        "tag": "Pronome"
+      },
+      {
+        "word": "soubesse",
+        "tag": "Verbo"
+      },
+      {
+        "word": "antes",
+        "tag": "Advérbio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "teria",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "me",
+        "tag": "Pronome"
+      },
+      {
+        "word": "preparado",
+        "tag": "Verbo"
+      },
+      {
+        "word": "melhor",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "para",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "prova",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Quando o relógio marcou meia-noite, todos comemoraram.",
+    "tags": [
+      {
+        "word": "Quando",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "relógio",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "marcou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "meia-noite",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "todos",
+        "tag": "Pronome"
+      },
+      {
+        "word": "comemoraram",
+        "tag": "Verbo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Gostaria que você me ajudasse com os exercícios de matemática.",
+    "tags": [
+      {
+        "word": "Gostaria",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "me",
+        "tag": "Pronome"
+      },
+      {
+        "word": "ajudasse",
+        "tag": "Verbo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "exercícios",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "matemática",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Será que a reunião será adiada por causa da chuva?",
+    "tags": [
+      {
+        "word": "Será",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "reunião",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "será",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "adiada",
+        "tag": "Verbo"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "causa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "chuva",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Meu amigo Carlos, venha aqui por um instante, preciso falar com você.",
+    "tags": [
+      {
+        "word": "Meu",
+        "tag": "Determinante"
+      },
+      {
+        "word": "amigo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "Carlos",
+        "tag": "Nome Próprio"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "venha",
+        "tag": "Verbo"
+      },
+      {
+        "word": "aqui",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "um",
+        "tag": "Numeral"
+      },
+      {
+        "word": "instante",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "preciso",
+        "tag": "Verbo"
+      },
+      {
+        "word": "falar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Apesar das dificuldades, eles conseguiram alcançar o objetivo.",
+    "tags": [
+      {
+        "word": "Apesar",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "as",
+        "tag": "Determinante"
+      },
+      {
+        "word": "dificuldades",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "eles",
+        "tag": "Pronome"
+      },
+      {
+        "word": "conseguiram",
+        "tag": "Verbo"
+      },
+      {
+        "word": "alcançar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "objetivo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Você sabe onde está o livro que deixei sobre a mesa?",
+    "tags": [
+      {
+        "word": "Você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "sabe",
+        "tag": "Verbo"
+      },
+      {
+        "word": "onde",
+        "tag": "Pronome"
+      },
+      {
+        "word": "está",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "livro",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "que",
+        "tag": "Pronome"
+      },
+      {
+        "word": "deixei",
+        "tag": "Verbo"
+      },
+      {
+        "word": "sobre",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "mesa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "?",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Não acredito que ela tenha conseguido terminar o trabalho tão rápido!",
+    "tags": [
+      {
+        "word": "Não",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "acredito",
+        "tag": "Verbo"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "ela",
+        "tag": "Pronome"
+      },
+      {
+        "word": "tenha",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "conseguido",
+        "tag": "Verbo"
+      },
+      {
+        "word": "terminar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "trabalho",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "tão",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "rápido",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "!",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Seja gentil com os outros, pois todos merecem respeito.",
+    "tags": [
+      {
+        "word": "Seja",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "gentil",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "com",
+        "tag": "Preposição"
+      },
+      {
+        "word": "os",
+        "tag": "Determinante"
+      },
+      {
+        "word": "outros",
+        "tag": "Pronome"
+      },
+      {
+        "word": ",",
+        "tag": "Pontuação"
+      },
+      {
+        "word": "pois",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "todos",
+        "tag": "Pronome"
+      },
+      {
+        "word": "merecem",
+        "tag": "Verbo"
+      },
+      {
+        "word": "respeito",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Vou esperar aqui até que você volte da escola.",
+    "tags": [
+      {
+        "word": "Vou",
+        "tag": "Verbo Auxiliar"
+      },
+      {
+        "word": "esperar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "aqui",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "até",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "que",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "volte",
+        "tag": "Verbo"
+      },
+      {
+        "word": "de",
+        "tag": "Preposição"
+      },
+      {
+        "word": "a",
+        "tag": "Determinante"
+      },
+      {
+        "word": "escola",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Que surpresa agradável encontrar você por aqui!",
+    "tags": [
+      {
+        "word": "Que",
+        "tag": "Determinante"
+      },
+      {
+        "word": "surpresa",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "agradável",
+        "tag": "Adjetivo"
+      },
+      {
+        "word": "encontrar",
+        "tag": "Verbo"
+      },
+      {
+        "word": "você",
+        "tag": "Pronome"
+      },
+      {
+        "word": "por",
+        "tag": "Preposição"
+      },
+      {
+        "word": "aqui",
+        "tag": "Advérbio"
+      },
+      {
+        "word": "!",
+        "tag": "Pontuação"
+      }
+    ]
+  },
+  {
+    "pharase": "Ela perguntou se eu queria ir ao parque no domingo.",
+    "tags": [
+      {
+        "word": "Ela",
+        "tag": "Pronome"
+      },
+      {
+        "word": "perguntou",
+        "tag": "Verbo"
+      },
+      {
+        "word": "se",
+        "tag": "Conjunção Subordinativa"
+      },
+      {
+        "word": "eu",
+        "tag": "Pronome"
+      },
+      {
+        "word": "queria",
+        "tag": "Verbo"
+      },
+      {
+        "word": "ir",
+        "tag": "Verbo"
+      },
+      {
+        "word": "a",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "parque",
+        "tag": "Substantivo"
+      },
+      {
+        "word": "em",
+        "tag": "Preposição"
+      },
+      {
+        "word": "o",
+        "tag": "Determinante"
+      },
+      {
+        "word": "domingo",
+        "tag": "Substantivo"
+      },
+      {
+        "word": ".",
+        "tag": "Pontuação"
+      }
+    ]
+  }
+]

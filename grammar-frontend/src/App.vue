@@ -20,7 +20,8 @@ function handleTranscription(result: string) {
 }
 
 async function handleConfirm(confirmedText: string) {
-  const result = await fetch("http://localhost:5678/tagger", {
+  // "http://localhost:5678/tagger"
+  const result = await fetch("https://auth.legenda.live/ws-7/tagger", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
