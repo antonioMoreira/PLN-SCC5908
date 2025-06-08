@@ -14,7 +14,11 @@ dependencies = [
     "stanza (>=1.10.1,<2.0.0)",
     "rich (>=14.0.0,<15.0.0)",
     "numpy (>=2.2.5,<3.0.0)",
-    "pandas (>=2.2.3,<3.0.0)"
+    "pandas (>=2.2.3,<3.0.0)",
+    "firebase-admin (>=6.8.0,<7.0.0)",
+    "google-cloud-firestore (>=2.20.2,<3.0.0)",
+    "python-ulid (>=3.0.0,<4.0.0)",
+    "matplotlib (>=3.10.3,<4.0.0)",
 ]
 
 
@@ -26,4 +30,3 @@ build-backend = "poetry.core.masonry.api"
 jupyterlab = "^4.4.2"
 setuptools = "^80.3.1"
 wheel = "^0.45.1"
-

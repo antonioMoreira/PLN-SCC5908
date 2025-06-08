@@ -1,16 +1,21 @@
 <script setup lang="ts">
 import TranscriptorView from "./views/TranscriptorView.vue";
-import TaggingView from "./views/TaggingView.vue";
+import TaggingView, { type Word } from "./views/TaggingView.vue";
 import TextView from "./views/TextView.vue";
-
+import NewSessionView from "./views/NewSessionView.vue";
+import { nanoid } from "nanoid";
+import useInteractionEvents from "./composables/useInteraction";
 import { ref } from "vue";
 
-// Esse <> é para dizer para o typescript que a variável
-// que a `ref` vai ser  "transcriptor" ou "tagging"
-// x:Literal["transcriptor", "confirm", "tagging"] = "transcriptor"
-const page = ref<"transcriptor" | "confirm" | "tagging">("transcriptor");
+const page = ref<"newSession" | "transcriptor" | "confirm" | "tagging">(
+  "newSession"
+);
+
 const transcription = ref<string>("");
-const text = ref<string>("");
+const text = ref<Word[]>([]);
+const schoolYear = ref("");
+const sessionId = nanoid(10);
+const { publishNewSessionEvent } = useInteractionEvents(sessionId);
 
 // O evento @done é emitido pelo TranscriptorView
 // E passa como argumento a frase gravada
@@ -36,22 +41,33 @@ async function handleConfirm(confirmedText: string) {
   }
   const { data } = await result.json();
   page.value = "tagging";
-  text.value = data;
+  text.value = data as unknown;
+
+  // data precisa ser um Word[] para isso aqui funcionar
+  publishNewSessionEvent(schoolYear.value, data);
+}
+
+function handleSelectYear(selectedYear: string) {
+  schoolYear.value = selectedYear;
+  page.value = "transcriptor";
 }
 </script>
 
 <template>
-  <div class="container mt-6 has-text-centered">
-    <!-- Aqui a função @done pode receber argumentos do evento -->
+  <div class="container mt-6">
+    <NewSessionView
+      @select-year="handleSelectYear"
+      v-if="page === 'newSession'"
+    />
     <TranscriptorView
       @done="handleTranscription"
-      v-if="page === 'transcriptor'"
+      v-else-if="page === 'transcriptor'"
     />
     <TextView
       @confirm="handleConfirm"
       :result="transcription"
       v-else-if="page === 'confirm'"
     />
-    <TaggingView :result="text" v-else-if="page === 'tagging'" />
+    <TaggingView :phrase="text" :session-id v-else-if="page === 'tagging'" />
   </div>
 </template>
