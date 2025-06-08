@@ -1,78 +1,72 @@
 <script setup lang="ts">
-import { computed, reactive, ref } from "vue";
+import { computed, reactive, useTemplateRef } from "vue";
 import { shuffle } from "es-toolkit";
+import { animate } from "motion";
 import TagWord from "../components/TagWord.vue";
+import useInteractionEvents from "../composables/useInteraction";
+import JSConfetti from "js-confetti";
+
+const jsConfetti = new JSConfetti();
+
+export type Word = {
+  word: string;
+  tag: string;
+};
 
 // Recebe a frase como props:
-const { result } = defineProps<{
-  result: {
-    word: string;
-    tag: string;
-  }[];
+const { phrase, sessionId } = defineProps<{
+  phrase: Word[];
+  sessionId: string;
 }>();
 
-const taggingTarget = ref<number>(-1);
+const wordsRef = useTemplateRef("wordsRef");
+const { publishInteractionEvent } = useInteractionEvents(sessionId);
 
-function tagWord(tag: string, symbol: symbol) {
-  // Se o target for -1, não tem como marcar nada
-  if (taggingTarget.value < 0) return;
+function shakeWords() {
+  animate(
+    wordsRef.value!,
+    {
+      x: [-10, 10, 0],
+      "--background-color": [
+        "var(--bulma-body-background-color)",
+        "var(--bulma-danger)",
+        "var(--bulma-body-background-color)",
+      ],
+    },
+    {
+      duration: 0.333,
+    }
+  );
+}
 
-  // Remove primeiro de outra palavra se está usando
-  // o mesmo símbolo
-  const otherWord = words.find((word) => word.tagSymbol === symbol);
-  if (otherWord) {
-    otherWord.tag = undefined;
-    otherWord.tagSymbol = undefined;
+function tagWord(targetIndex: number) {
+  if (!draggedText) return;
+  const { tag, tagSymbol } = draggedText;
+
+  const correctTag = words[targetIndex].correctTag;
+  const word = words[targetIndex].content;
+
+  publishInteractionEvent({
+    correctTag,
+    draggedTag: tag,
+    targetWord: word,
+  });
+  if (correctTag === tag) {
+    words[targetIndex].tag = tag;
+    words[targetIndex].tagSymbol = tagSymbol;
+  } else {
+    shakeWords();
   }
-
-  words[taggingTarget.value].tag = tag;
-  words[taggingTarget.value].tagSymbol = symbol;
-  taggingTarget.value = -1;
+  if (allTagged.value) {
+    jsConfetti.addConfetti({
+      confettiNumber: 100,
+    });
+  }
 }
 
-function clearWord(index: number) {
-  words[index].tag = undefined;
-  words[index].tagSymbol = undefined;
-}
-
-// const example = {
-//   data: [
-//     [
-//       {
-//         word: "Oi",
-//         tag: "PROPN",
-//       },
-//       {
-//         word: ",",
-//         tag: "PUNCT",
-//       },
-//       {
-//         word: "meu",
-//         tag: "DET",
-//       },
-//       {
-//         word: "nome",
-//         tag: "NOUN",
-//       },
-//       {
-//         word: "é",
-//         tag: "AUX",
-//       },
-//       {
-//         word: "Antonio",
-//         tag: "PROPN",
-//       },
-//       {
-//         word: "Moreira",
-//         tag: "PROPN",
-//       },
-//       {
-//         word: ".",
-//         tag: "PUNCT",
-//       },
-//     ],
-//   ],
-// };
+const allTagged = computed(() => {
+  return words.every((word) => word.tag === word.correctTag);
+});
 
 const words: {
   content: string;
@@ -80,7 +74,7 @@ const words: {
   tagSymbol?: symbol;
   correctTag: string;
 }[] = reactive(
-  result.map((item) => ({
+  phrase.map((item) => ({
     content: item.word,
     correctTag: item.tag,
   }))
@@ -88,7 +82,7 @@ const words: {
 
 const tags = reactive(
   shuffle(
-    result.map((item) => ({
+    phrase.map((item) => ({
       name: item.tag,
       tagSymbol: Symbol(),
     }))
@@ -103,43 +97,66 @@ const tagList = computed(() => {
   }));
 });
 
-function resetTagging() {
-  words.forEach((word) => {
-    word.tag = undefined;
-    word.tagSymbol = undefined;
-  });
+function restart() {
+  window.location.reload();
 }
+
+let draggedText:
+  | {
+      tag: string;
+      tagSymbol: symbol;
+    }
+  | undefined;
 </script>
 
 <template>
-  <div class="words">
+  <div class="words" ref="wordsRef">
     <TagWord
       :word="word.content"
       v-for="(word, index) in words"
       :key="index"
       :tag="word.tag"
-      :correct="word.correctTag"
-      @start-tagging="() => (taggingTarget = index)"
-      @clear="() => clearWord(index)"
+      :is-tagged="word.tag === word.correctTag"
+      @dragover.prevent
+      @drop.prevent="() => tagWord(index)"
     />
   </div>
 
-  <div class="available-tags" :data-active="taggingTarget > -1">
+  <div class="available-tags" :data-active="true">
     <div
-      class="tag is-size-4"
-      :class="[tag.isUsed ? 'is-light' : 'is-info']"
+      class="tag is-size-4 is-info"
+      :data-used="tag.isUsed"
       :key="tag.tagSymbol"
       v-for="tag in tagList"
-      @click="tagWord(tag.name, tag.tagSymbol)"
+      draggable="true"
+      @dragstart="
+        () => (draggedText = { tag: tag.name, tagSymbol: tag.tagSymbol })
+      "
+      @dragend="() => (draggedText = undefined)"
     >
       {{ tag.name }}
     </div>
   </div>
-
-  <button class="button mt-4" @click="resetTagging">Resetar</button>
+  <small v-if="!allTagged"
+    >Arraste a classe morfossintática para a palavra correspondente</small
+  >
+  <button
+    class="button is-primary is-large has-text-centered btn-hover"
+    @click="restart"
+  >
+    {{ allTagged ? "Fazer teste novamente" : "Reiniciar" }}
+  </button>
 </template>
 
 <style scoped>
+.tag {
+  font-size: clamp(1rem, 0.7609rem + 1.1957vw, 1.6875rem);
+}
+
+[data-used="true"] {
+  display: none;
+}
+
 .available-tags {
   margin-top: 20px;
   display: flex;
@@ -162,6 +179,46 @@ function resetTagging() {
   justify-content: center;
   align-items: center;
   font-size: 2.5rem;
-  margin-bottom: 80px;
+  margin-bottom: calc(clamp(3rem, 1.6957rem + 6.5217vw, 6.75rem) * 0.8);
+  background-color: var(--background-color);
+}
+
+small {
+  display: block;
+  margin-top: 2rem;
+  font-size: 2rem;
+  text-align: center;
+}
+
+@property --background-color {
+  syntax: "<color>";
+  inherits: false;
+  initial-value: --bulma-body-background-color;
+}
+
+.restart-button {
+  font-size: clamp(1.2rem, 1.0196rem + 0.9022vw, 1.7188rem);
+  display: block;
+  margin-inline: auto;
+  margin-top: clamp(3rem, 1.6957rem + 6.5217vw, 6.75rem);
+}
+
+.btn-hover {
+  padding: 10px 20px;
+  /* background-color: var(--color-primary); */
+  /* color: white; */
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: clamp(1.2rem, 1.0196rem + 0.9022vw, 1.7188rem);
+  display: block;
+  margin-inline: auto;
+  margin-top: clamp(3rem, 1.6957rem + 6.5217vw, 6.75rem);
+}
+
+.btn-hover:hover {
+  transform: translateY(-4px);
+  /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); */
 }
 </style>

@@ -69,27 +69,26 @@ async function stopRecordingAndGetBlob() {
     return;
   }
 
-  const {transcription} = await result.json();
+  const { transcription } = await result.json();
 
   isLoading.value = false;
-
-  // getTranscription
-
   // Aqui a gente está emitindo o evento "done" com o resultado gravado
   emit("done", transcription);
 }
 </script>
 
 <template>
-  <button v-if="!isRecording" class="button is-link" @click="startRecording">
-    Gravar
-  </button>
-  <button
-    v-else
-    class="button is-danger"
-    :class="{ 'is-loading': isLoading }"
-    @click="stopRecordingAndGetBlob"
-  >
-    Parar
-  </button>
+  <div class="has-text-centered">
+    <button v-if="!isRecording" class="button is-link" @click="startRecording">
+      Gravar
+    </button>
+    <button
+      v-else
+      class="button is-danger"
+      :class="{ 'is-loading': isLoading }"
+      @click="stopRecordingAndGetBlob"
+    >
+      Parar
+    </button>
+  </div>
 </template>
